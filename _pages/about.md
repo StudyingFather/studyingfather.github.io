@@ -11,4 +11,4 @@ Hello, I'm Shuhao Zhang, a first-year PhD student from [Programming Language Lab
 
 My research interests focus on programming languages, especially on program verification and program synthesis.
 
-I have been involved in competitive programming for a long time. See [Misc](/misc) for more detailed information.
+I have been involved in competitive programming for a long time. See [Misc](/misc/) for more detailed information.
